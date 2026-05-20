@@ -1,0 +1,62 @@
+{
+  "expo": {
+    "name": "BrightPath",
+    "slug": "brightpath",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#1A9B8B"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#1A9B8B"
+      },
+      "package": "com.brightpath",
+      "googleServicesFile": "./google-services.json",
+      "permissions": [
+        "android.permission.CAMERA",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.RECORD_AUDIO",
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.MODIFY_AUDIO_SETTINGS"
+      ]
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.brightpath.app"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "BrightPath needs access to your photos to upload child profile pictures.",
+          "cameraPermission": "BrightPath needs access to your camera to take profile photos."
+        }
+      ],
+      [
+        "expo-av",
+        {
+          "microphonePermission": "BrightPath uses the microphone for audio activities."
+        }
+      ],
+      "expo-font",
+      "expo-sqlite"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "55dbecd7-708c-445d-a3fa-9b7edcf02a5a"
+      }
+    },
+    "owner": "anique-1"
+  }
+}

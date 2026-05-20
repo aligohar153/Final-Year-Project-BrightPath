@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+                    <!-- Google Tag Manager -->
+                <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                    })(window,document,'script','dataLayer','GTM-PJ7GHMRD');</script>
+                <!-- End Google Tag Manager -->
+        
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>404</title>
+        <meta name="description" content="This page does not exist.">
+        
+        <!-- CSRF Token -->
+        <meta name="csrf-token" content="">
+
+        <!-- Styles -->
+        <link href="/css/app.css?id=339e75d4ebf0bc9c7b7d" rel="stylesheet">
+
+        <style>
+            .adsense-top, .adsense-small, .adsense-big { display: block; margin: 20px auto 20px;}
+            .adsense-top, .adsense-small { width: 320px; height: 100px; }
+            .adsense-big { width: 300px; height: 250px; }
+            .adsense-top { display: none; }
+
+            @media(min-width: 640px) {
+                .adsense-top, .adsense-small { width: 468px; height: 60px; }
+                .adsense-big { width: 336px; height: 280px; }
+                .adsense-top { display: block; }
+            }
+
+            @media(min-width: 768px) {
+                .adsense-top, .adsense-small, .adsense-big { width: 728px; height: 90px; }
+            }
+
+            @media(min-width: 1024px) {
+                .adsense-top, .adsense-small { width: 970px; height: 90px; }
+                .adsense-big { width: 970px; height: 250px; }
+            }
+        </style>
+
+    </head>
+    <body class="relative">
+
+    
+        
+    
+        
+    
+
+    <div id="app">
+                    
+                        
+                        
+                            
+                                
+                                    
+                                
+                            
+
+                            
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                            
+
+
+                            
+                            
+                        
+
+                    
+
+                    
+                        
+                        
+                        
+                    
+                
+            
+        
+
+
+        
+        <div class="flex sm:hidden bg-blue-menu1">
+            <div class="container">
+                <nav class="flex">
+                                            <div class="w-1/4 md:w-1/3">
+                            <dropdown align="left" width="160px" dropdown-id="Chords">
+                            <template v-slot:trigger>
+                                <div class="text-center text-sm  py-2 bg-gray">Chords</div>
+                            </template>
+                            <div class="bg-blue-menu1">
+                                                                                            <a class="menu-link block pl-4 py-2 pr-1 " href="/">Guitar Chords</a>
+                                                                                                <a class="menu-link block pl-4 py-2 pr-1 " href="/chords/identifier">Chord Identifier</a>
+                                                                                                <a class="menu-link block pl-4 py-2 pr-1 " href="/chords/scales">Scales to Chord</a>
+                                                                                                <a class="menu-link block pl-4 py-2 pr-1 " href="/chords/arpeggio">Guitar Arpeggios</a>
+                                                                                                <a class="menu-link block pl-4 py-2 pr-1 " href="/chords/progressions">Chord Progressions</a>
+                                                                                                <a class="menu-link block pl-4 py-2 pr-1 " href="/chords/index">All Chords</a>
+                                                            </div>
+                            </dropdown>
+                        </div>
+                                            <div class="w-1/4 md:w-1/6">
+                            <dropdown align="left" width="160px" dropdown-id="Scales">
+                            <template v-slot:trigger>
+                                <div class="text-center text-sm  py-2 bg-gray">Scales</div>
+                            </template>
+                            <div class="bg-blue-menu1">
+                                                                                            <a class="menu-link block pl-4 py-2 pr-1 " href="/scales">Guitar Scales</a>
+                                                                                                <a class="menu-link block pl-4 py-2 pr-1 " href="/scales/identifier">Scale Identifier</a>
+                                                                                                <a class="menu-link block pl-4 py-2 pr-1 " href="/scales/chords">Chords to Scales</a>
+                                                            </div>
+                            </dropdown>
+                        </div>
+                                            <div class="w-1/4 md:w-1/6">
+                            <dropdown align="left" width="160px" dropdown-id="Tools">
+                            <template v-slot:trigger>
+                                <div class="text-center text-sm  py-2 bg-gray">Tools</div>
+                            </template>
+                            <div class="bg-blue-menu1">
+                                                                                            <a class="menu-link block pl-4 py-2 pr-1 " href="/metronome">Metronome</a>
+                                                                                                <a class="menu-link block pl-4 py-2 pr-1 " href="/circle-of-fifths">Circle of 5ths</a>
+                                                                                                <a class="menu-link block pl-4 py-2 pr-1 " href="/online-guitar-tuner">Online Guitar Tuner</a>
+                                                            </div>
+                            </dropdown>
+                        </div>
+                                            <div class="w-1/4 md:w-1/3">
+                            <dropdown align="right" width="160px" dropdown-id="Info">
+                            <template v-slot:trigger>
+                                <div class="text-center text-sm  py-2 bg-gray">Info</div>
+                            </template>
+                            <div class="bg-blue-menu1">
+                                                                                            <a class="menu-link block pl-4 py-2 pr-1 " href="/lessons">Lessons</a>
+                                                                                                <a class="menu-link block pl-4 py-2 pr-1 " href="http://forum.all-guitar-chords.com/board.php">Forums</a>
+                                                                                                <a class="menu-link block pl-4 py-2 pr-1 " href="/songs">Song Chords</a>
+                                                                                                <a class="menu-link block pl-4 py-2 pr-1 " href="/glossary">Glossary</a>
+                                                                                                <a class="menu-link block pl-4 py-2 pr-1 " href="/guitar-licks">Guitar Licks</a>
+                                                            </div>
+                            </dropdown>
+                        </div>
+                                    </nav>
+            </div>
+        </div>
+
+        
+        <div class="hidden sm:block">
+            <div class="flex bg-gray-menu">
+                <div class="flex-auto bg-gray-menu"></div>
+                <div class="container">
+                    <nav class="flex">
+                                                <div class="text-sm pl-2 lg:pl-4 py-2 text-white w-1/3">Chords</div>
+                                                <div class="text-sm pl-2 lg:pl-4 py-2 text-white w-1/6">Scales</div>
+                                                <div class="text-sm pl-2 lg:pl-4 py-2 text-white w-1/6">Tools</div>
+                                                <div class="text-sm pl-2 lg:pl-4 py-2 text-white w-1/3">Info</div>
+                                            </nav>
+                </div>
+                <div class="flex-auto bg-gray-menu"></div>
+            </div>
+            <div class="flex bg-blue-menu2">
+                <div class="flex-auto bg-blue-menu2"></div>
+                <div class="container">
+                    <nav class="flex">
+                                                    <div class="w-1/3 bg-blue-menu1 flex flex-wrap">
+                                                                                            <a class="menu-link pl-2 lg:pl-4 pr-1 py-1 w-1/2 " href="/">Guitar Chords</a>
+                                                                                            <a class="menu-link pl-2 lg:pl-4 pr-1 py-1 w-1/2 " href="/chords/identifier">Chord Identifier</a>
+                                                                                            <a class="menu-link pl-2 lg:pl-4 pr-1 py-1 w-1/2 " href="/chords/scales">Scales to Chord</a>
+                                                                                            <a class="menu-link pl-2 lg:pl-4 pr-1 py-1 w-1/2 " href="/chords/arpeggio">Guitar Arpeggios</a>
+                                                                                            <a class="menu-link pl-2 lg:pl-4 pr-1 py-1 w-1/2 " href="/chords/progressions">Chord Progressions</a>
+                                                                                            <a class="menu-link pl-2 lg:pl-4 pr-1 py-1 w-1/2 " href="/chords/index">All Chords</a>
+                                                        </div>
+                                                    <div class="w-1/6 bg-blue-menu2 flex flex-wrap">
+                                                                                            <a class="menu-link pl-2 lg:pl-4 pr-1 py-1 w-full " href="/scales">Guitar Scales</a>
+                                                                                            <a class="menu-link pl-2 lg:pl-4 pr-1 py-1 w-full " href="/scales/identifier">Scale Identifier</a>
+                                                                                            <a class="menu-link pl-2 lg:pl-4 pr-1 py-1 w-full " href="/scales/chords">Chords to Scales</a>
+                                                        </div>
+                                                    <div class="w-1/6 bg-blue-menu1 flex flex-wrap">
+                                                                                            <a class="menu-link pl-2 lg:pl-4 pr-1 py-1 w-full " href="/metronome">Metronome</a>
+                                                                                            <a class="menu-link pl-2 lg:pl-4 pr-1 py-1 w-full " href="/circle-of-fifths">Circle of 5ths</a>
+                                                                                            <a class="menu-link pl-2 lg:pl-4 pr-1 py-1 w-full " href="/online-guitar-tuner">Online Guitar Tuner</a>
+                                                        </div>
+                                                    <div class="w-1/3 bg-blue-menu2 flex flex-wrap">
+                                                                                            <a class="menu-link pl-2 lg:pl-4 pr-1 py-1 w-1/2 " href="/lessons">Lessons</a>
+                                                                                            <a class="menu-link pl-2 lg:pl-4 pr-1 py-1 w-1/2 " href="http://forum.all-guitar-chords.com/board.php">Forums</a>
+                                                                                            <a class="menu-link pl-2 lg:pl-4 pr-1 py-1 w-1/2 " href="/songs">Song Chords</a>
+                                                                                            <a class="menu-link pl-2 lg:pl-4 pr-1 py-1 w-1/2 " href="/glossary">Glossary</a>
+                                                                                            <a class="menu-link pl-2 lg:pl-4 pr-1 py-1 w-1/2 " href="/guitar-licks">Guitar Licks</a>
+                                                        </div>
+                                            </nav>
+                </div>
+                <div class="flex-auto bg-blue-menu1"></div>
+            </div>
+        </div>
+
+        
+        <main class="container mx-auto px-1 sm:px-2 md:px-4 lg:px-0 mt-2">
+                <div class="text-box pb-10">
+        <h1>404</h1>
+
+        <p class="text-center mb-12">
+            This page does not exist.
+        </p>
+    </div>
+        </main>
+
+        
+        <footer class="flex bg-blue-menu2">
+            <div class="flex-auto"></div>
+            <div class="container text-center">
+                <nav class="flex justify-center">
+                    <a class="footer-link" href="/privacy">Privacy</a>
+                    <a class="footer-link" href="/contact">Contact</a>
+                </nav>
+                <div class="text-xs text-gray-dark mb-2">&#169; All-guitar-chords.com 2026</div>
+            </div>
+            <div class="flex-auto"></div>
+        </footer>
+    </div>
+
+    
+    <script src="/js/app.js?id=ab12bd16c90fba1cf43d"></script>
+
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PJ7GHMRD" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    </body>
+</html>
